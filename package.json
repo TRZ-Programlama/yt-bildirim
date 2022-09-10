@@ -1,0 +1,30 @@
+{
+  "name": "fatih-adin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "common-tags": "^1.0.0",
+    "discord": "^0.8.2",
+    "discord-button": "^1.0.3",
+    "discord-button-pages": "^1.1.9",
+    "discord-buttons": "^4.0.0",
+    "discord-buttons-fixed": "^2.0.2",
+    "discord.js": "^13.10.3",
+    "fs": "^0.0.1-security",
+    "jimp": "^0.16.1",
+    "mongoose": "^6.5.4",
+    "nrc.db": "^2.1.0",
+    "path": "^0.12.7",
+    "quick.db": "^9.0.6",
+    "quickmongo": "^5.1.2",
+    "rss-parser": "^3.12.0",
+    "wio.db": "^4.0.22",
+    "yt-channel-info": "^3.1.0"
+  }
+}
